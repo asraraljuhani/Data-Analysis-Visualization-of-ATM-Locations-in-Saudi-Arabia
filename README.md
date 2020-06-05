@@ -1,5 +1,6 @@
 # Data-Analysis-and-Visualization-of-ATM-Locations-in-Saudi-Arabia
-#### Analysis and Visualization ATM Locations in Saudi Arabia 
+#### Collect and clean real data of ATM Locations in Saudi Arabia and analyze it to get useful information and visualize them in Google Maps and several diagrams.
+
 > by Asrar AlJuhani,  Nouf AlZahrani, and Zahra'a Hamwi .
 
 ## This is a Pandas Project using Python Programming Languages 
